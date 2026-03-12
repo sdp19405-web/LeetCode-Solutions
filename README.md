@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/sdp19405-web/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/sdp19405-web/LeetCode-Solutions/tree/master/0058-length-of-last-word) |
 | [0443-string-compression](https://github.com/sdp19405-web/LeetCode-Solutions/tree/master/0443-string-compression) |
+| [1796-second-largest-digit-in-a-string](https://github.com/sdp19405-web/LeetCode-Solutions/tree/master/1796-second-largest-digit-in-a-string) |
 ## Trie
 |  |
 | ------- |
@@ -51,4 +52,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/sdp19405-web/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
+## Hash Table
+|  |
+| ------- |
+| [1796-second-largest-digit-in-a-string](https://github.com/sdp19405-web/LeetCode-Solutions/tree/master/1796-second-largest-digit-in-a-string) |
 <!---LeetCode Topics End-->
