@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/sdp19405-web/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sdp19405-web/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/sdp19405-web/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
+| [0349-intersection-of-two-arrays](https://github.com/sdp19405-web/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 ## String
 |  |
 | ------- |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sdp19405-web/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/sdp19405-web/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
+| [0349-intersection-of-two-arrays](https://github.com/sdp19405-web/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0443-string-compression](https://github.com/sdp19405-web/LeetCode-Solutions/tree/master/0443-string-compression) |
 ## Dynamic Programming
 |  |
@@ -58,9 +60,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/sdp19405-web/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
+| [0349-intersection-of-two-arrays](https://github.com/sdp19405-web/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [1796-second-largest-digit-in-a-string](https://github.com/sdp19405-web/LeetCode-Solutions/tree/master/1796-second-largest-digit-in-a-string) |
 ## Sorting
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/sdp19405-web/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
+| [0349-intersection-of-two-arrays](https://github.com/sdp19405-web/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
+## Binary Search
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/sdp19405-web/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 <!---LeetCode Topics End-->
