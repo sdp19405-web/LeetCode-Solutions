@@ -1,16 +1,12 @@
-import java.util.HashSet;
-
 class Solution {
     public boolean containsDuplicate(int[] nums) {
-        HashSet<Integer> set = new HashSet<>();
-
-        for(int num : nums){
-            if(set.contains(num)){
+        HashSet<Integer> seen=new HashSet<>();
+        for(int i=0; i<nums.length; i++){
+            if(seen.contains(nums[i])){
                 return true;
             }
-            set.add(num);
+            seen.add(nums[i]);
         }
-
         return false;
     }
 }
