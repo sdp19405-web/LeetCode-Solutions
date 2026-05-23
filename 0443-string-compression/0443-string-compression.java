@@ -1,29 +1,35 @@
 class Solution {
+
     public int compress(char[] chars) {
 
-        int index = 0;   // position to write
-        int i = 0;       // position to read
+        String ans = "";
+
+        int i = 0;
 
         while (i < chars.length) {
 
-            char current = chars[i];
+            char ch = chars[i];
+
             int count = 0;
 
-            while (i < chars.length && chars[i] == current) {
-                i++;
+            // Count same characters
+            while (i < chars.length && chars[i] == ch) {
                 count++;
+                i++;
             }
 
-            chars[index++] = current;
+            ans = ans + ch;
 
             if (count > 1) {
-                String num = String.valueOf(count);
-                for (char c : num.toCharArray()) {
-                    chars[index++] = c;
-                }
+                ans = ans + count;
             }
         }
 
-        return index;
+        // Put compressed string back into chars array
+        for (int j = 0; j < ans.length(); j++) {
+            chars[j] = ans.charAt(j);
+        }
+
+        return ans.length();
     }
 }
