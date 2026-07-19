@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/sdp19405-web/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sdp19405-web/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/sdp19405-web/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
+| [0283-move-zeroes](https://github.com/sdp19405-web/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/sdp19405-web/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/sdp19405-web/LeetCode-Solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## String
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sdp19405-web/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/sdp19405-web/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0189-rotate-array](https://github.com/sdp19405-web/LeetCode-Solutions/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/sdp19405-web/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/sdp19405-web/LeetCode-Solutions/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/sdp19405-web/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0443-string-compression](https://github.com/sdp19405-web/LeetCode-Solutions/tree/master/0443-string-compression) |
