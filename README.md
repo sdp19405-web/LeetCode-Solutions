@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/sdp19405-web/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/sdp19405-web/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sdp19405-web/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/sdp19405-web/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/sdp19405-web/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sdp19405-web/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/sdp19405-web/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
@@ -115,4 +116,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/sdp19405-web/LeetCode-Solutions/tree/master/0067-add-binary) |
+| [0136-single-number](https://github.com/sdp19405-web/LeetCode-Solutions/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
