@@ -3,42 +3,41 @@ import java.util.*;
 class Solution {
     public List<Integer> spiralOrder(int[][] matrix) {
         List<Integer> result = new ArrayList<>();
-        
-        int startRow = 0;
-        int endRow = matrix.length - 1;
-        int startCol = 0;
-        int endCol = matrix[0].length - 1;
 
-        while (startRow <= endRow && startCol <= endCol) {
+        int top = 0;
+        int bottom = matrix.length - 1;
+        int left = 0;
+        int right = matrix[0].length - 1;
 
-            // top
-            for (int i = startCol; i <= endCol; i++) {
-                result.add(matrix[startRow][i]);
+        while (top <= bottom && left <= right) {
+
+            // Left -> Right
+            for (int i = left; i <= right; i++) {
+                result.add(matrix[top][i]);
             }
+            top++;
 
-            // right
-            for (int j = startRow + 1; j <= endRow; j++) {
-                result.add(matrix[j][endCol]);
+            // Top -> Bottom
+            for (int i = top; i <= bottom; i++) {
+                result.add(matrix[i][right]);
             }
+            right--;
 
-            // bottom
-            if (startRow < endRow) {
-                for (int i = endCol - 1; i >= startCol; i--) {
-                    result.add(matrix[endRow][i]);
+            // Right -> Left
+            if (top <= bottom) {
+                for (int i = right; i >= left; i--) {
+                    result.add(matrix[bottom][i]);
                 }
+                bottom--;
             }
 
-            // left
-            if (startCol < endCol) {
-                for (int j = endRow - 1; j > startRow; j--) {
-                    result.add(matrix[j][startCol]);
+            // Bottom -> Top
+            if (left <= right) {
+                for (int i = bottom; i >= top; i--) {
+                    result.add(matrix[i][left]);
                 }
+                left++;
             }
-
-            startRow++;
-            endRow--;
-            startCol++;
-            endCol--;
         }
 
         return result;
