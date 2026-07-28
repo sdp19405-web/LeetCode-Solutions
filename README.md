@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/sdp19405-web/LeetCode-Solutions/tree/master/0443-string-compression) |
 | [1021-remove-outermost-parentheses](https://github.com/sdp19405-web/LeetCode-Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1796-second-largest-digit-in-a-string](https://github.com/sdp19405-web/LeetCode-Solutions/tree/master/1796-second-largest-digit-in-a-string) |
+| [1903-largest-odd-number-in-string](https://github.com/sdp19405-web/LeetCode-Solutions/tree/master/1903-largest-odd-number-in-string) |
 ## Trie
 |  |
 | ------- |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/sdp19405-web/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/sdp19405-web/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/sdp19405-web/LeetCode-Solutions/tree/master/0189-rotate-array) |
+| [1903-largest-odd-number-in-string](https://github.com/sdp19405-web/LeetCode-Solutions/tree/master/1903-largest-odd-number-in-string) |
 ## Two Pointers
 |  |
 | ------- |
@@ -130,4 +132,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/sdp19405-web/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/sdp19405-web/LeetCode-Solutions/tree/master/0136-single-number) |
+## Greedy
+|  |
+| ------- |
+| [1903-largest-odd-number-in-string](https://github.com/sdp19405-web/LeetCode-Solutions/tree/master/1903-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->
