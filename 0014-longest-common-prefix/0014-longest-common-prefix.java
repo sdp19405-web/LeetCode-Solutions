@@ -5,18 +5,16 @@ class Solution {
             return "";
         }
 
-        for (int i = 0; i < strs[0].length(); i++) {
+        String prefix = strs[0];
 
-            for (int j = 1; j < strs.length; j++) {
+        for (int i = 1; i < strs.length; i++) {
 
-                if (i >= strs[j].length() || strs[j].charAt(i) != strs[0].charAt(i)) {
-                    return strs[0].substring(0, i);
-                }
-
+            while (strs[i].indexOf(prefix) != 0) {
+                prefix = prefix.substring(0, prefix.length() - 1);
             }
 
         }
 
-        return strs[0];
+        return prefix;
     }
 }
